@@ -9,70 +9,70 @@
 ослы), а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
 
-![](image/task1.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task1.JPG)
 
-![](image/task1_0.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task1_0.JPG)
 
-![](image/task1_1.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task1_1.JPG)
 
-![](image/task1_2.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task1_2.JPG)
 
-![](image/task1_3.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task1_3.JPG)
 
-![](image/task1_4.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task1_4.JPG)
 
-![](image/task1_5.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task1_5.JPG)
 
 2. Создать директорию, переместить файл туда.
 
-![](image/task2.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task2.JPG)
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
 
-![](image/task3.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task3.JPG)
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
-![](image/task4_1.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task4_1.JPG)
 
-![](image/task4_2.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task4_2.JPG)
 
-5. Выложить [историю команд] в терминале ubuntu
+5. Выложить [историю команд](https://github.com/NDashko/FinalTest2/blob/main/history.md) в терминале ubuntu
 
-6. Нарисовать [диаграмму], в которой есть класс родительский класс, домашние
+6. Нарисовать [диаграмму](https://github.com/NDashko/FinalTest2/blob/main/diagram.drawio), в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
 
-![](image/task1_6.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task6.JPG)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”
 
-![](image/task7.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task7.JPG)
 
 8. Создать таблицы с иерархией из диаграммы в БД
 9. Заполнить низкоуровневые таблицы именами(животных), командами
 которые они выполняют и датами рождения
 
-![](image/task9.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task9.JPG)
 
 10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой
 питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
 
-![](image/task10.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task10.JPG)
 
 11.Создать новую таблицу “молодые животные” в которую попадут все
 животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью
 до месяца подсчитать возраст животных в новой таблице
 
-![](image/task11.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task11.JPG)
 
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
 
-![](image/task12.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task12.JPG)
 
 13.Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 14. Написать программу, имитирующую работу реестра домашних животных.
@@ -89,7 +89,7 @@
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведения животного заполнены все поля.
 
-![](image/task13_15.jpg)
+![](https://github.com/NDashko/FinalTest2/blob/main/image/task13_15.JPG)
 
 
 
